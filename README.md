@@ -22,45 +22,45 @@ Deploy a Streamlit dashboard for interactive performance reporting
 Maintain institutional-grade documentation, accuracy tracking, and consistency
 
 3. Key Features
-✔ Multi-Asset Performance Measurement
-Time-weighted returns (TWR)
-Money-weighted returns (MWR)
-Contribution to return
-
-✔ Equity Attribution (Brinson-Fachler)
-Allocation effect
-Selection effect
-Interaction effect
-
-✔ Fixed Income Attribution
-Curve effect
-Spread effect
-Carry & rolldown
-FX contribution
-
-✔ Residual Analyzer
-Helps answer questions like:
-“Why does portfolio return mismatch benchmark return?”
-Automatically detects:
-Missing holdings
-Incorrect weights
-Price mismatch
-Timing gaps
-Rounding errors
-FX or cash drag residuals
-
-✔ Automated Pipelines
-Using Airflow:
-Daily data ingestion
-Returns + attribution
-Residual checks
-Automated PDF + dashboard upload
-
-✔ Professional Streamlit Dashboard
-Performance charts
-Attribution heatmaps
-Top contributors/detractors
-Residual diagnostics
-Export to Excel / PDF
+    ✔ Multi-Asset Performance Measurement
+    Time-weighted returns (TWR)
+    Money-weighted returns (MWR)
+    Contribution to return
+    
+    ✔ Equity Attribution (Brinson-Fachler)
+    Allocation effect
+    Selection effect
+    Interaction effect
+    
+    ✔ Fixed Income Attribution
+    Curve effect
+    Spread effect
+    Carry & rolldown
+    FX contribution
+    
+    ✔ Residual Analyzer
+    Helps answer questions like:
+    “Why does portfolio return mismatch benchmark return?”
+    Automatically detects:
+    Missing holdings
+    Incorrect weights
+    Price mismatch
+    Timing gaps
+    Rounding errors
+    FX or cash drag residuals
+    
+    ✔ Automated Pipelines
+    Using Airflow:
+    Daily data ingestion
+    Returns + attribution
+    Residual checks
+    Automated PDF + dashboard upload
+    
+    ✔ Professional Streamlit Dashboard
+    Performance charts
+    Attribution heatmaps
+    Top contributors/detractors
+    Residual diagnostics
+    Export to Excel / PDF
 
 
